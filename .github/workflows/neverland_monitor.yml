@@ -1,0 +1,62 @@
+name: neverland-monitor
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"   # 15分ごと。混雑時は数分〜数十分遅れたり、まれに飛ばされることがある
+  workflow_dispatch:            # Actions画面から手動実行もできる
+    inputs:
+      force_status:
+        description: "しきい値に関係なく現在の状況をDiscordに送る（yes/no）"
+        default: "yes"
+
+permissions:
+  contents: write               # state/ の記録をリポジトリに保存するため
+
+concurrency:
+  group: neverland-monitor
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      FORCE_STATUS: ${{ github.event.inputs.force_status || 'no' }}
+      DISCORD_ALERT_WEBHOOK_URL: ${{ secrets.DISCORD_ALERT_WEBHOOK_URL }}
+      MONAD_RPC_URL: ${{ secrets.MONAD_RPC_URL }}
+      OPENSEA_API_KEY: ${{ secrets.OPENSEA_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements_monitor.txt
+
+      - name: Install
+        run: pip install -r requirements_monitor.txt
+
+      - name: cbBTC borrow rate monitor
+        continue-on-error: true
+        run: python neverland_monitor_v1.py
+
+      - name: veDUST marketplace monitor
+        continue-on-error: true
+        run: python neverland_market_v3.py
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "neverland-monitor"
+          git config user.email "neverland-monitor@users.noreply.github.com"
+          mkdir -p state
+          for f in state/neverland_monitor.json state/neverland_rates.csv state/neverland_market.json; do
+            [ -f "$f" ] && git add "$f"
+          done
+          git diff --cached --quiet && exit 0
+          git commit -m "neverland monitor $(date -u +%F-%H%M)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            sleep 5
+          done
