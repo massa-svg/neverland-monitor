@@ -4,7 +4,7 @@
     "watchPatterns": ["neverland_trader_*.py", "requirements.txt", "railway.json"]
   },
   "deploy": {
-    "startCommand": "python neverland_trader_v3.py",
+    "startCommand": "python neverland_trader_v4.py",
     "restartPolicyType": "ALWAYS"
   }
 }
