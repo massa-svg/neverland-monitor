@@ -1,8 +1,8 @@
 {
  "assets": {
   "cbBTC": {
-   "below": true,
-   "last_alert": "2026-10-21T17:01:58.413080+09:00"
+   "below": false,
+   "last_alert": null
   }
  },
  "errors": 0
