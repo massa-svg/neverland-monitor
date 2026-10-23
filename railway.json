@@ -1,7 +1,9 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "build": {
-    "watchPatterns": ["neverland_trader_*.py", "requirements.txt", "railway.json"]
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "Dockerfile",
+    "watchPatterns": ["neverland_trader_*.py", "requirements.txt", "railway.json", "Dockerfile"]
   },
   "deploy": {
     "startCommand": "python neverland_trader_v9.py",
