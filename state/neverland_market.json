@@ -4,8 +4,8 @@
  },
  "errors": 0,
  "os_key": {
-  "key": "550def0d83830d32fed439156c225fb1",
-  "expires_ts": 1792902770.6629
+  "key": "86c90c815e42f8e44107d7e8968fa4d7",
+  "expires_ts": 1793487584.763243
  },
  "os_chain": "monad",
  "os_slug": "voting-escrow-dust",
