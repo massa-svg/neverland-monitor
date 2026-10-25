@@ -3,4 +3,4 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
-CMD ["python", "dust_offer_watch_v5.py"]
+CMD ["python", "neverland_trader_v9.py"]
