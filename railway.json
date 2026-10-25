@@ -3,10 +3,15 @@
   "build": {
     "builder": "DOCKERFILE",
     "dockerfilePath": "Dockerfile",
-    "watchPatterns": ["neverland_trader_*.py", "requirements.txt", "railway.json", "Dockerfile"]
+    "watchPatterns": [
+      "/neverland_trader_*.py",
+      "/requirements.txt",
+      "/railway.json",
+      "/Dockerfile"
+    ]
   },
   "deploy": {
-    "startCommand": "python neverland_trader_v10.py",
+    "startCommand": "sh -c 'exec python $(ls neverland_trader_v*.py | sort -V | tail -n 1)'",
     "restartPolicyType": "ALWAYS"
   }
 }
