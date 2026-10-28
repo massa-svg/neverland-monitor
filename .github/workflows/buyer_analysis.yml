@@ -1,0 +1,31 @@
+name: vedust-buyer-analysis
+
+on:
+  workflow_dispatch:            # Actions画面の「Run workflow」で1回だけ実行
+
+permissions:
+  contents: write               # 結果を analysis/data/ に保存するため
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      MONAD_RPC_URL: ${{ secrets.MONAD_RPC_URL }}
+      OPENSEA_API_KEY: ${{ secrets.OPENSEA_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests web3
+      - run: python vedust_buyer_analysis_v1.py
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "neverland-monitor"
+          git config user.email "neverland-monitor@users.noreply.github.com"
+          git add analysis/data || true
+          git diff --cached --quiet && exit 0
+          git commit -m "buyer analysis $(date -u +%F-%H%M)"
+          for i in 1 2 3; do git pull --rebase --autostash && git push && break; sleep 5; done
