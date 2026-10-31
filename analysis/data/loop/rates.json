@@ -1,0 +1,634 @@
+{
+ "run_utc": "2026-10-31T05:13:42.376557+00:00",
+ "dust_usd": 0.0168262882926435,
+ "reserves": [
+  {
+   "asset": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+   "symbol": "USDC",
+   "supply_apr": 0.030832130722826714,
+   "borrow_apr": 0.05418849879978198,
+   "ltv": 0.85,
+   "liq_threshold": 0.9,
+   "liq_bonus": 1.05,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 2,
+   "reserve_factor": 0.3,
+   "price": 0.99979025,
+   "aToken": "0x38648958836ea88b368b4ac23b86ad44b0fe7508",
+   "vDebt": "0xb26fb5e35f6527d6f878f7784ea71774595b249c",
+   "supply_usd": 3536273.697836657,
+   "debt_usd": 2874662.5310456227,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 20000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.03473484097439656
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.0
+    }
+   ]
+  },
+  {
+   "asset": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+   "symbol": "WMON",
+   "supply_apr": 0.037697786634168194,
+   "borrow_apr": 0.08773952287514299,
+   "ltv": 0.7,
+   "liq_threshold": 0.75,
+   "liq_bonus": 1.15,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 1,
+   "reserve_factor": 0.5,
+   "price": 0.01935755,
+   "aToken": "0xd0fd2cf7f6ceff4f96b1161f5e995d5843326154",
+   "vDebt": "0x3aca285b9f57832ff55f1e6835966890845c1526",
+   "supply_usd": 1123356.8912707984,
+   "debt_usd": 965548.3838849196,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 20000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.10934361598774177
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 8000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.05088586199775048
+    }
+   ]
+  },
+  {
+   "asset": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+   "symbol": "USDT0",
+   "supply_apr": 0.02560012805820325,
+   "borrow_apr": 0.049377195486525916,
+   "ltv": 0.85,
+   "liq_threshold": 0.9,
+   "liq_bonus": 1.05,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 2,
+   "reserve_factor": 0.3,
+   "price": 0.99889,
+   "aToken": "0x39f901c32b2e0d25ae8deaa1ee115c748f8f6bdf",
+   "vDebt": "0xa2d753458946612376ce6e5704ab1cc79153d272",
+   "supply_usd": 2570176.941717724,
+   "debt_usd": 1903809.585688493,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 15000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.035843418757252596
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.0
+    }
+   ]
+  },
+  {
+   "asset": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+   "symbol": "WBTC",
+   "supply_apr": 0.01740981376079448,
+   "borrow_apr": 0.06831587473283895,
+   "ltv": 0.7,
+   "liq_threshold": 0.75,
+   "liq_bonus": 1.1,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 0,
+   "reserve_factor": 0.5,
+   "price": 77134.31718125,
+   "aToken": "0x34c43684293963c546b0ab6841008a4d3393b9ab",
+   "vDebt": "0x544a5ff071090f4ee3ad879435f4dc1c1eec1873",
+   "supply_usd": 409520.0219156255,
+   "debt_usd": 208734.13758911585,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 5000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.07498528641024843
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 200.00000000000003,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.005884610248951558
+    }
+   ]
+  },
+  {
+   "asset": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+   "symbol": "WETH",
+   "supply_apr": 0.002781923146136542,
+   "borrow_apr": 0.04662897992400289,
+   "ltv": 0.7,
+   "liq_threshold": 0.75,
+   "liq_bonus": 1.1,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 0,
+   "reserve_factor": 0.5,
+   "price": 2238.85158855,
+   "aToken": "0x31f63ae5a96566b93477191778606bebdc4ca66f",
+   "vDebt": "0xde6c157e43c5d9b713c635f439a93ca3be2156b6",
+   "supply_usd": 504324.547951419,
+   "debt_usd": 60177.81826612226,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 5000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.06088931474545723
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 300.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.03061723773195856
+    }
+   ]
+  },
+  {
+   "asset": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+   "symbol": "sMON",
+   "supply_apr": 0.0,
+   "borrow_apr": 0.04,
+   "ltv": 0.55,
+   "liq_threshold": 0.6,
+   "liq_bonus": 1.15,
+   "borrowing_enabled": false,
+   "frozen": false,
+   "emode_legacy": 1,
+   "reserve_factor": 0.5,
+   "price": 0.02172965,
+   "aToken": "0xdfc14d336aea9e49113b1356333fd374e646bf85",
+   "vDebt": "0x26a823b286b5de1185ef0d90f77b7f04e6e24306",
+   "supply_usd": 191146.81135488913,
+   "debt_usd": 0.0,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.0
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": null
+    }
+   ]
+  },
+  {
+   "asset": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+   "symbol": "shMON",
+   "supply_apr": 0.0,
+   "borrow_apr": 0.04,
+   "ltv": 0.65,
+   "liq_threshold": 0.7,
+   "liq_bonus": 1.15,
+   "borrowing_enabled": false,
+   "frozen": false,
+   "emode_legacy": 1,
+   "reserve_factor": 0.5,
+   "price": 0.03184292,
+   "aToken": "0xc64d73bb8748c6fa7487ace2d0d945b6fbb2ecde",
+   "vDebt": "0xbb64e46e995be16eef3ec009442abc0f2c8381b1",
+   "supply_usd": 878129.3865584662,
+   "debt_usd": 0.0,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 5000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.03496976254766283
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": null
+    }
+   ]
+  },
+  {
+   "asset": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+   "symbol": "AUSD",
+   "supply_apr": 0.03454631972427263,
+   "borrow_apr": 0.05735961722349587,
+   "ltv": 0.85,
+   "liq_threshold": 0.9,
+   "liq_bonus": 1.05,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 2,
+   "reserve_factor": 0.3,
+   "price": 0.99955285,
+   "aToken": "0x784999fc2dd132a41d1cc0f1ae9805854bad1f2d",
+   "vDebt": "0x54fc077eae1006fe3c5d01f1614802eafcbee57e",
+   "supply_usd": 1695163.7788253361,
+   "debt_usd": 1458706.0507356978,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 10000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.0362300994365907
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.0
+    }
+   ]
+  },
+  {
+   "asset": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+   "symbol": "gMON",
+   "supply_apr": 0.0,
+   "borrow_apr": 0.04,
+   "ltv": 0.55,
+   "liq_threshold": 0.6,
+   "liq_bonus": 1.15,
+   "borrowing_enabled": false,
+   "frozen": false,
+   "emode_legacy": 1,
+   "reserve_factor": 0.5,
+   "price": 0.02148333,
+   "aToken": "0x7f81779736968836582d31d36274ed82053ad1ae",
+   "vDebt": "0x905999cc7b7e26c1cb2761f6c00909b65c862b78",
+   "supply_usd": 70362.53877621438,
+   "debt_usd": 0.0,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.0
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": null
+    }
+   ]
+  },
+  {
+   "asset": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
+   "symbol": "earnAUSD",
+   "supply_apr": 0.0,
+   "borrow_apr": 0.0,
+   "ltv": 0.85,
+   "liq_threshold": 0.9,
+   "liq_bonus": 1.05,
+   "borrowing_enabled": false,
+   "frozen": false,
+   "emode_legacy": 0,
+   "reserve_factor": 0.3,
+   "price": 1.04975039,
+   "aToken": "0xacaaa891b30e13d024ab67b6eca9c2ecbd8cf52b",
+   "vDebt": "0xcb6f3477fdfe996bf418cd9f26146ba2370706d1",
+   "supply_usd": 243585.86211411617,
+   "debt_usd": 0.0,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 1000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.025213266375606135
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": null
+    }
+   ]
+  },
+  {
+   "asset": "0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90",
+   "symbol": "loAZND",
+   "supply_apr": 0.0,
+   "borrow_apr": 0.0,
+   "ltv": 0.0001,
+   "liq_threshold": 0.0001,
+   "liq_bonus": 1.0001,
+   "borrowing_enabled": false,
+   "frozen": true,
+   "emode_legacy": 0,
+   "reserve_factor": 0.3,
+   "price": 0.814576,
+   "aToken": "0x293e2f01a38fe690eb8e570ab952b24b225113a7",
+   "vDebt": "0x457354db2142a61188166699e0b65b2699092585",
+   "supply_usd": 117132.68205264366,
+   "debt_usd": 0.0,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.0
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 0.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": null
+    }
+   ]
+  },
+  {
+   "asset": "0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b",
+   "symbol": "cbBTC",
+   "supply_apr": 0.00538557802586242,
+   "borrow_apr": 0.051597429617441314,
+   "ltv": 0.7,
+   "liq_threshold": 0.75,
+   "liq_bonus": 1.1,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 0,
+   "reserve_factor": 0.5,
+   "price": 77159.82307252,
+   "aToken": "0xcc7f5f78bedfc65c2fdd93c7537832eea1324774",
+   "vDebt": "0x74f2ef7c9cf6d3a3587c3f91569827cc17715f08",
+   "supply_usd": 146158.81585302445,
+   "debt_usd": 30513.001724084796,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 1000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.04202001221049021
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 300.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.06038339278138413
+    }
+   ]
+  },
+  {
+   "asset": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+   "symbol": "XAUt0",
+   "supply_apr": 0.0015918767799165809,
+   "borrow_apr": 0.0440182263660019,
+   "ltv": 0.4,
+   "liq_threshold": 0.55,
+   "liq_bonus": 1.2,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 0,
+   "reserve_factor": 0.5,
+   "price": 3875.524886,
+   "aToken": "0x3351683194670680edd1700bfbe146403684aedf",
+   "vDebt": "0x9f31559410bc89660a03546dc906763f9f2648f9",
+   "supply_usd": 88146.22855697105,
+   "debt_usd": 6376.0135424472,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 1000.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.06967507660121176
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 35.000000000000036,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.033713202067010985
+    }
+   ]
+  },
+  {
+   "asset": "0x06ab4f89b4abaee213a8cf64188dea47e4ab11eb",
+   "symbol": "hMON",
+   "supply_apr": 0.03312834440622882,
+   "borrow_apr": 0.08388213487546928,
+   "ltv": 0.65,
+   "liq_threshold": 0.7,
+   "liq_bonus": 1.15,
+   "borrowing_enabled": true,
+   "frozen": false,
+   "emode_legacy": 1,
+   "reserve_factor": 0.5,
+   "price": 0.01935755,
+   "aToken": "0xc4f61dda3adc4059e3e5c953a7641c6cc24e64f2",
+   "vDebt": "0x9c444b55d9e3845c65b3a2bea7ad089089c822da",
+   "supply_usd": 31211.18056136158,
+   "debt_usd": 24659.18944200225,
+   "supply_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 300.0,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.05903264583094276
+    }
+   ],
+   "borrow_rewards": [
+    {
+     "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+     "symbol": "DUST",
+     "per_day": 25.000000000000014,
+     "end": 1893499199,
+     "active": true,
+     "apr": 0.006226477193481712
+    }
+   ]
+  }
+ ],
+ "emode": [
+  {
+   "id": 1,
+   "sig": "getEModeCategoryData(uint8)",
+   "words": [
+    "32",
+    "8800",
+    "9000",
+    "10500",
+    "0",
+    "160",
+    "21",
+    "34562078496879903446313756260208419088806607485262794723684443302115875487744"
+   ]
+  },
+  {
+   "id": 2,
+   "sig": "getEModeCategoryData(uint8)",
+   "words": [
+    "32",
+    "9300",
+    "9400",
+    "10400",
+    "0",
+    "160",
+    "11",
+    "37747592814811251159154031180562583262971955846606936598595298763820234702848"
+   ]
+  },
+  {
+   "id": 3,
+   "sig": "getEModeCategoryData(uint8)",
+   "words": [
+    "32",
+    "0",
+    "0",
+    "0",
+    "0",
+    "160",
+    "0"
+   ]
+  },
+  {
+   "id": 4,
+   "sig": "getEModeCategoryData(uint8)",
+   "words": [
+    "32",
+    "0",
+    "0",
+    "0",
+    "0",
+    "160",
+    "0"
+   ]
+  },
+  {
+   "id": 5,
+   "sig": "getEModeCategoryData(uint8)",
+   "words": [
+    "32",
+    "0",
+    "0",
+    "0",
+    "0",
+    "160",
+    "0"
+   ]
+  },
+  {
+   "id": 6,
+   "sig": "getEModeCategoryData(uint8)",
+   "words": [
+    "32",
+    "0",
+    "0",
+    "0",
+    "0",
+    "160",
+    "0"
+   ]
+  },
+  {
+   "id": 7,
+   "sig": "getEModeCategoryData(uint8)",
+   "words": [
+    "32",
+    "0",
+    "0",
+    "0",
+    "0",
+    "160",
+    "0"
+   ]
+  }
+ ],
+ "whale_emode": 2
+}
