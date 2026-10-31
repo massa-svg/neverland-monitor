@@ -6,7 +6,7 @@
     "watchPatterns": ["/dust-offer-watch/**"]
   },
   "deploy": {
-    "startCommand": "python dust_offer_watch_v8.py",
+    "startCommand": "python dust_offer_watch_v9.py",
     "restartPolicyType": "ALWAYS"
   }
 }
