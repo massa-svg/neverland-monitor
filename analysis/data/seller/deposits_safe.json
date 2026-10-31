@@ -1,0 +1,285 @@
+{
+ "run_utc": "2026-10-31T04:56:12.363539+00:00",
+ "pool": "0x80f00661b13cc5f6ccd3885be7b4c9c67545d585",
+ "reserves": [
+  {
+   "asset": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+   "symbol": "USDC",
+   "price_usd": 0.99979025,
+   "aToken": "0x38648958836ea88b368b4ac23b86ad44b0fe7508",
+   "vDebt": "0xb26fb5e35f6527d6f878f7784ea71774595b249c",
+   "total_supply": 3541138.018316,
+   "total_debt": 2875460.427885,
+   "supply_0xf4db2e": 734824.208678,
+   "debt_0xf4db2e": 0.455974,
+   "supply_0x4bd444": 13639.730728,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+   "symbol": "WMON",
+   "price_usd": 0.019386,
+   "aToken": "0xd0fd2cf7f6ceff4f96b1161f5e995d5843326154",
+   "vDebt": "0x3aca285b9f57832ff55f1e6835966890845c1526",
+   "total_supply": 58042876.27116111,
+   "total_debt": 49879533.21101427,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 1077979.5364287193,
+   "debt_0x4bd444": 820326.3939525518
+  },
+  {
+   "asset": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+   "symbol": "USDT0",
+   "price_usd": 0.99889,
+   "aToken": "0x39f901c32b2e0d25ae8deaa1ee115c748f8f6bdf",
+   "vDebt": "0xa2d753458946612376ce6e5704ab1cc79153d272",
+   "total_supply": 2571871.90597,
+   "total_debt": 1901917.580227,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 1538502.709028,
+   "supply_0x4bd444": 7016.353661,
+   "debt_0x4bd444": 33881.615636
+  },
+  {
+   "asset": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+   "symbol": "WBTC",
+   "price_usd": 77041.40321164,
+   "aToken": "0x34c43684293963c546b0ab6841008a4d3393b9ab",
+   "vDebt": "0x544a5ff071090f4ee3ad879435f4dc1c1eec1873",
+   "total_supply": 5.30917754,
+   "total_debt": 2.70610631,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.18801504,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+   "symbol": "WETH",
+   "price_usd": 2235.18108783,
+   "aToken": "0x31f63ae5a96566b93477191778606bebdc4ca66f",
+   "vDebt": "0xde6c157e43c5d9b713c635f439a93ca3be2156b6",
+   "total_supply": 225.26035387258054,
+   "total_debt": 26.878835952974164,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 6.718215161546127,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+   "symbol": "sMON",
+   "price_usd": 0.02176159,
+   "aToken": "0xdfc14d336aea9e49113b1356333fd374e646bf85",
+   "vDebt": "0x26a823b286b5de1185ef0d90f77b7f04e6e24306",
+   "total_supply": 8796589.515012396,
+   "total_debt": 0.0,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+   "symbol": "shMON",
+   "price_usd": 0.03188972,
+   "aToken": "0xc64d73bb8748c6fa7487ace2d0d945b6fbb2ecde",
+   "vDebt": "0xbb64e46e995be16eef3ec009442abc0f2c8381b1",
+   "total_supply": 27575201.89421657,
+   "total_debt": 0.0,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+   "symbol": "AUSD",
+   "price_usd": 0.99955285,
+   "aToken": "0x784999fc2dd132a41d1cc0f1ae9805854bad1f2d",
+   "vDebt": "0x54fc077eae1006fe3c5d01f1614802eafcbee57e",
+   "total_supply": 1688950.44426,
+   "total_debt": 1459355.798296,
+   "supply_0xf4db2e": 937052.553935,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+   "symbol": "gMON",
+   "price_usd": 0.0215149,
+   "aToken": "0x7f81779736968836582d31d36274ed82053ad1ae",
+   "vDebt": "0x905999cc7b7e26c1cb2761f6c00909b65c862b78",
+   "total_supply": 3275215.6568006165,
+   "total_debt": 0.0,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
+   "symbol": "earnAUSD",
+   "price_usd": 1.04975039,
+   "aToken": "0xacaaa891b30e13d024ab67b6eca9c2ecbd8cf52b",
+   "vDebt": "0xcb6f3477fdfe996bf418cd9f26146ba2370706d1",
+   "total_supply": 232041.697183,
+   "total_debt": 0.0,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90",
+   "symbol": "loAZND",
+   "price_usd": 0.814576,
+   "aToken": "0x293e2f01a38fe690eb8e570ab952b24b225113a7",
+   "vDebt": "0x457354db2142a61188166699e0b65b2699092585",
+   "total_supply": 143795.89142405824,
+   "total_debt": 0.0,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b",
+   "symbol": "cbBTC",
+   "price_usd": 77019.81764472,
+   "aToken": "0xcc7f5f78bedfc65c2fdd93c7537832eea1324774",
+   "vDebt": "0x74f2ef7c9cf6d3a3587c3f91569827cc17715f08",
+   "total_supply": 1.89423438,
+   "total_debt": 0.39545125,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+   "symbol": "XAUt0",
+   "price_usd": 3875.524886,
+   "aToken": "0x3351683194670680edd1700bfbe146403684aedf",
+   "vDebt": "0x9f31559410bc89660a03546dc906763f9f2648f9",
+   "total_supply": 22.744332,
+   "total_debt": 1.645198,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  },
+  {
+   "asset": "0x06ab4f89b4abaee213a8cf64188dea47e4ab11eb",
+   "symbol": "hMON",
+   "price_usd": 0.019386,
+   "aToken": "0xc4f61dda3adc4059e3e5c953a7641c6cc24e64f2",
+   "vDebt": "0x9c444b55d9e3845c65b3a2bea7ad089089c822da",
+   "total_supply": 1612350.0067937048,
+   "total_debt": 1273876.0869653118,
+   "supply_0xf4db2e": 0.0,
+   "debt_0xf4db2e": 0.0,
+   "supply_0x4bd444": 0.0,
+   "debt_0x4bd444": 0.0
+  }
+ ],
+ "account_0xf4db2e": {
+  "collateral_usd": 1671303.64005767,
+  "debt_usd": 1536795.44131333,
+  "health": 1.0222736087189503
+ },
+ "account_0x4bd444": {
+  "collateral_usd": 71044.51692332,
+  "debt_usd": 49746.85518739,
+  "health": 1.1333420534130052
+ },
+ "safe": {
+  "owners": [
+   "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+   "0x5034206d8d1bc3e4c57709a73f0f350a5a01746d",
+   "0x72671e23a369114786fd00b555cf16a89c66c00f",
+   "0xcb69535abbc95a042914507f963bdd74ad0025ff",
+   "0x03013a7094791c6e1ce5ef371309c40ebbe45bab"
+  ],
+  "threshold": 2,
+  "nonce": 121,
+  "executor_nonce": 172,
+  "seller_is_owner": false,
+  "os_events": [
+   {
+    "type": "transfer",
+    "ts": 1783214627,
+    "token_id": "20614",
+    "from": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "to": "0x4f6374eecdd9ca64de176cf78774446be7dfd86f",
+    "tx": "0xe7a9f1ac4b3d3ce4a76e580addc9694abcd78dc66e2e2d951f700536e236f513"
+   },
+   {
+    "type": "transfer",
+    "ts": 1783214363,
+    "token_id": "20607",
+    "from": "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+    "to": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "tx": "0xb6ccb9a47b5fa1dcd9c4c5ebce13efc832aae4629126a06772b16fd90fbb223e"
+   },
+   {
+    "type": "transfer",
+    "ts": 1783214363,
+    "token_id": "20609",
+    "from": "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+    "to": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "tx": "0xb6ccb9a47b5fa1dcd9c4c5ebce13efc832aae4629126a06772b16fd90fbb223e"
+   },
+   {
+    "type": "transfer",
+    "ts": 1783214363,
+    "token_id": "20608",
+    "from": "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+    "to": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "tx": "0xb6ccb9a47b5fa1dcd9c4c5ebce13efc832aae4629126a06772b16fd90fbb223e"
+   },
+   {
+    "type": "transfer",
+    "ts": 1783214363,
+    "token_id": "20610",
+    "from": "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+    "to": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "tx": "0xb6ccb9a47b5fa1dcd9c4c5ebce13efc832aae4629126a06772b16fd90fbb223e"
+   },
+   {
+    "type": "transfer",
+    "ts": 1783214363,
+    "token_id": "20612",
+    "from": "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+    "to": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "tx": "0xb6ccb9a47b5fa1dcd9c4c5ebce13efc832aae4629126a06772b16fd90fbb223e"
+   },
+   {
+    "type": "transfer",
+    "ts": 1783214363,
+    "token_id": "20614",
+    "from": "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+    "to": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "tx": "0xb6ccb9a47b5fa1dcd9c4c5ebce13efc832aae4629126a06772b16fd90fbb223e"
+   },
+   {
+    "type": "transfer",
+    "ts": 1783214363,
+    "token_id": "20613",
+    "from": "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+    "to": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "tx": "0xb6ccb9a47b5fa1dcd9c4c5ebce13efc832aae4629126a06772b16fd90fbb223e"
+   },
+   {
+    "type": "transfer",
+    "ts": 1783214363,
+    "token_id": "20611",
+    "from": "0x4aa43a4870432b2bbc30530fed9e62607deaa881",
+    "to": "0xb83a6637c87e6a7192b3ada845c0745f815e9006",
+    "tx": "0xb6ccb9a47b5fa1dcd9c4c5ebce13efc832aae4629126a06772b16fd90fbb223e"
+   }
+  ]
+ }
+}
