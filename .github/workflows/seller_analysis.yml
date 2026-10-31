@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install requests web3
-      - run: python vedust_seller_analysis_v1.py
+      - run: python vedust_seller_analysis_v2.py
       - name: Save
         if: always()
         run: |
