@@ -1,0 +1,12 @@
+{
+  "$schema": "https://railway.com/railway.schema.json",
+  "build": {
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "Dockerfile",
+    "watchPatterns": ["/vedust-trader/**"]
+  },
+  "deploy": {
+    "startCommand": "sh -c 'exec python $(ls neverland_trader_v*.py | sort -V | tail -n 1)'",
+    "restartPolicyType": "ALWAYS"
+  }
+}
