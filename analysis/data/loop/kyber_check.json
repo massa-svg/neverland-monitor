@@ -1,0 +1,100 @@
+{
+ "routes_status": 200,
+ "routes": {
+  "code": 0,
+  "message": "successfully",
+  "data": {
+   "routeSummary": {
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "amountIn": "1000000000000000000000",
+    "amountInUsd": "19.386431272970725",
+    "tokenOut": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "amountOut": "19371253",
+    "amountOutUsd": "19.27066651127123",
+    "gas": "715081",
+    "gasPrice": "102000000000",
+    "gasUsd": "0.0014140126034329324",
+    "l1FeeUsd": "0",
+    "extraFee": {
+     "feeAmount": "",
+     "chargeFeeBy": "",
+     "isInBps": false,
+     "feeReceiver": ""
+    },
+    "route": [
+     [
+      {
+       "pool": "0x02a8a16613a421eabad6861ff6d8159f6d5edb8f",
+       "tokenIn": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+       "tokenOut": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+       "swapAmount": "1000000000000000000000",
+       "amountOut": "19371253",
+       "exchange": "poe",
+       "poolType": "poe",
+       "poolExtra": {
+        "blockNumber": 118106405,
+        "isXtoY": true
+       },
+       "extra": {
+        "_ce": {
+         "prCnt": 1,
+         "tgtAmtOut": "19371253",
+         "ces": [
+          {
+           "pool": "0x39fae95717cfd4bda22317f1c124660a166b6bec",
+           "tokenIn": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+           "tokenOut": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+           "swapAmount": "1000000000000000000000",
+           "amountOut": "19370031",
+           "exchange": "crystal-ob",
+           "poolType": "crystal-ob",
+           "poolExtra": {
+            "approvalAddress": "0x508254c838b2e936b0631440c5c6e3ab3a4a98bd",
+            "n": true,
+            "blockNumber": 118106405
+           },
+           "extra": {}
+          }
+         ]
+        },
+        "_cs": "1833913479653536355",
+        "_ts": "1793426161",
+        "ri": "05a62b4bJQhInrBr"
+       }
+      }
+     ]
+    ],
+    "routerAddress": "0x6131B5fae19EA4f9D964eAc0408E4408b66337b5",
+    "routeID": "05a62b4bJQhInrBr",
+    "checksum": "1833913479653536355",
+    "timestamp": 1793426161
+   },
+   "routerAddress": "0x6131B5fae19EA4f9D964eAc0408E4408b66337b5"
+  },
+  "requestId": "05a62b4b-2508-489e-b06b-ba81f54f657d"
+ },
+ "build_status": 200,
+ "build": {
+  "code": 0,
+  "message": "successfully",
+  "data": {
+   "amountIn": "1000000000000000000000",
+   "amountInUsd": "19.397775699306486",
+   "amountOut": "19371252",
+   "amountOutUsd": "19.27603729864613",
+   "gas": "715081",
+   "gasUsd": "0.0014140126034329324",
+   "additionalCostUsd": "0",
+   "additionalCostMessage": "",
+   "outputChange": {
+    "amount": "0",
+    "percent": 0,
+    "level": 0
+   },
+   "data": "0xe21fd0e90000000000000000000000000000000000000000000000000000000000000020000000...",
+   "routerAddress": "0x6131B5fae19EA4f9D964eAc0408E4408b66337b5",
+   "transactionValue": "1000000000000000000000"
+  },
+  "requestId": "a1cb053a-76cb-449b-bbb4-1345ce5121c2"
+ }
+}
