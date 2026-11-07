@@ -4,8 +4,8 @@
  },
  "errors": 0,
  "os_key": {
-  "key": "311fe6f51ee0b1e0b4c02ee99671085c",
-  "expires_ts": 1794070797.990092
+  "key": "891272a5cbcd00c4ae174c8b2e094f87",
+  "expires_ts": 1794654437.665334
  },
  "os_chain": "monad",
  "os_slug": "voting-escrow-dust",
@@ -1619,6 +1619,13 @@
    "end": 0,
    "src": "チェーン",
    "ts": 1794040501.5298758
+  },
+  "25311": {
+   "amt": 2775.572435075081,
+   "status": "perm",
+   "end": 0,
+   "src": "チェーン",
+   "ts": 1794049638.6276715
   }
  }
 }
