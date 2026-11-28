@@ -1,1264 +1,1410 @@
 {
  "sales": [
   {
-   "ts": 1793466403,
-   "token_id": 25060,
-   "mon": 3496.71875,
-   "disc": 22.00973453123849,
-   "buyer": "0xbfd8686e74fd6a317969c31a73f9a8dc1e1761c2",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "ts": 1795529007,
+   "token_id": 25651,
+   "mon": 5706.346154,
+   "disc": 36.581132039713026,
+   "buyer": "0x895dd34a49f448057d8f0c3c3fd570d62c7efd21",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
   },
   {
-   "ts": 1793466436,
-   "token_id": 25067,
-   "mon": 3431.5625,
-   "disc": 23.615433395313048,
-   "buyer": "0xbfd8686e74fd6a317969c31a73f9a8dc1e1761c2",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "ts": 1795529136,
+   "token_id": 25642,
+   "mon": 5815.384615,
+   "disc": 35.369306543304155,
+   "buyer": "0x895dd34a49f448057d8f0c3c3fd570d62c7efd21",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
   },
   {
-   "ts": 1793472814,
-   "token_id": 25063,
-   "mon": 3561.875,
-   "disc": 19.711932986152224,
-   "buyer": "0x97475723b146785264c28a7a0b2bac3737d65247",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "ts": 1795530681,
+   "token_id": 25641,
+   "mon": 5924.423077,
+   "disc": 34.15748103578154,
+   "buyer": "0x895dd34a49f448057d8f0c3c3fd570d62c7efd21",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
   },
   {
-   "ts": 1793473127,
-   "token_id": 25061,
-   "mon": 3627.03125,
-   "disc": 18.24324883345989,
-   "buyer": "0x97475723b146785264c28a7a0b2bac3737d65247",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "ts": 1795531325,
+   "token_id": 25650,
+   "mon": 1500.0,
+   "disc": 33.317538492649625,
+   "buyer": "0x3e8c91472fc50a8528e448ff501af9bf8c00cceb",
+   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
   },
   {
-   "ts": 1793473243,
-   "token_id": 24090,
-   "mon": 4000.0,
-   "disc": 10.328211725809444,
-   "buyer": "0x97475723b146785264c28a7a0b2bac3737d65247",
+   "ts": 1795533080,
+   "token_id": 23273,
+   "mon": 800.0,
+   "disc": 28.299448501888648,
+   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
+   "seller": "0xbefe67542bab11de3ca315163a93afb116bfb119"
+  },
+  {
+   "ts": 1795533137,
+   "token_id": 23902,
+   "mon": 400.0,
+   "disc": null,
+   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
+   "seller": "0xbefe67542bab11de3ca315163a93afb116bfb119"
+  },
+  {
+   "ts": 1795533176,
+   "token_id": 24848,
+   "mon": 400.0,
+   "disc": 28.299448501888648,
+   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
+   "seller": "0xbefe67542bab11de3ca315163a93afb116bfb119"
+  },
+  {
+   "ts": 1795558567,
+   "token_id": 25761,
+   "mon": 7067.743585,
+   "disc": 26.17445256454839,
+   "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "ts": 1795558590,
+   "token_id": 25760,
+   "mon": 2400.0,
+   "disc": 25.72146055690554,
+   "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
+   "seller": "0x7a608ae1d67a085f8d93b01fc32a29677639c9b1"
+  },
+  {
+   "ts": 1795567826,
+   "token_id": 24189,
+   "mon": 29.0,
+   "disc": -138.09857547972194,
+   "buyer": "0x3e5da3e1f890c94312bc21a443f06eeccbcca9f1",
+   "seller": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "ts": 1795634055,
+   "token_id": 23576,
+   "mon": 60.0,
+   "disc": -494.3060545655399,
+   "buyer": "0x562034452038847ed215914fd01498287f2dbfc7",
+   "seller": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "ts": 1795640465,
+   "token_id": 189,
+   "mon": 1600.0,
+   "disc": 67.01090362403703,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x2a349ae7ce2a5e892806de6c1eee2ab18afa7b33"
+  },
+  {
+   "ts": 1795665697,
+   "token_id": 25774,
+   "mon": 1630.0,
+   "disc": null,
+   "buyer": "0x3496a0da043108ec81022ebecced3d0cf821a58d",
+   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
+  },
+  {
+   "ts": 1795665725,
+   "token_id": 25708,
+   "mon": 400.0,
+   "disc": null,
+   "buyer": "0x3496a0da043108ec81022ebecced3d0cf821a58d",
+   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
+  },
+  {
+   "ts": 1795665807,
+   "token_id": 25692,
+   "mon": 1750.0,
+   "disc": null,
+   "buyer": "0x3496a0da043108ec81022ebecced3d0cf821a58d",
+   "seller": "0xbc0b8482ab2cee2c527f1c83f5d97bac7cf2bc37"
+  },
+  {
+   "ts": 1795675205,
+   "token_id": 22716,
+   "mon": 29.8,
+   "disc": -200.23901899502937,
+   "buyer": "0x8e5f7768d144964b1bdf0d80aa5212029077570a",
+   "seller": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "ts": 1795675241,
+   "token_id": 22086,
+   "mon": 30.0,
+   "disc": -202.19385287187967,
+   "buyer": "0x8e5f7768d144964b1bdf0d80aa5212029077570a",
+   "seller": "0x33857d159c96815233caec5492dff0a25c47541f"
+  },
+  {
+   "ts": 1795675270,
+   "token_id": 23118,
+   "mon": 34.0,
+   "disc": -242.55458543057046,
+   "buyer": "0x8e5f7768d144964b1bdf0d80aa5212029077570a",
+   "seller": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "ts": 1795686363,
+   "token_id": 25788,
+   "mon": 6000.0,
+   "disc": null,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "ts": 1795687083,
+   "token_id": 22717,
+   "mon": 37.0,
+   "disc": 99.54291974676451,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "ts": 1795687459,
+   "token_id": 24144,
+   "mon": 29.0,
+   "disc": 99.64154002333346,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "ts": 1795687550,
+   "token_id": 20944,
+   "mon": 40.0,
+   "disc": null,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "ts": 1795687717,
+   "token_id": 20970,
+   "mon": 45.0,
+   "disc": -345.5429250599655,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "ts": 1795688568,
+   "token_id": 21925,
+   "mon": 78.0,
+   "disc": -672.2744034372737,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "ts": 1795711419,
+   "token_id": 25768,
+   "mon": 5920.0,
+   "disc": null,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "ts": 1795715337,
+   "token_id": 25790,
+   "mon": 6000.0,
+   "disc": 27.423308066237485,
+   "buyer": "0x895dd34a49f448057d8f0c3c3fd570d62c7efd21",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "ts": 1795715379,
+   "token_id": 25787,
+   "mon": 6120.0,
+   "disc": 25.97177422756223,
+   "buyer": "0x895dd34a49f448057d8f0c3c3fd570d62c7efd21",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "ts": 1795715443,
+   "token_id": 25785,
+   "mon": 6240.0,
+   "disc": 24.52024038888697,
+   "buyer": "0x895dd34a49f448057d8f0c3c3fd570d62c7efd21",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "ts": 1795730846,
+   "token_id": 25793,
+   "mon": 6240.0,
+   "disc": 25.66749377648335,
+   "buyer": "0x1e395ec849b5512069b03b0c41bda7641c3205c9",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "ts": 1795744253,
+   "token_id": 25797,
+   "mon": 1650.0,
+   "disc": null,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
+  },
+  {
+   "ts": 1795755428,
+   "token_id": 25808,
+   "mon": 7900.0,
+   "disc": 27.93299716974892,
+   "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
    "seller": "0xb758ee178889307fdc2139ccae910902b4febdd0"
   },
   {
-   "ts": 1793540761,
-   "token_id": 25071,
-   "mon": 1149.0,
-   "disc": null,
-   "buyer": "0xbfd8686e74fd6a317969c31a73f9a8dc1e1761c2",
-   "seller": "0x5964e651d8a563dea34937a7fbf4e3edf0fba4e2"
-  },
-  {
-   "ts": 1793542286,
-   "token_id": 25086,
-   "mon": 3040.265713,
-   "disc": 42.345990452199786,
-   "buyer": "0xbfd8686e74fd6a317969c31a73f9a8dc1e1761c2",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793545126,
-   "token_id": 25084,
-   "mon": 3104.496679,
-   "disc": 27.5873760308458,
-   "buyer": "0x97475723b146785264c28a7a0b2bac3737d65247",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793548011,
-   "token_id": 25055,
-   "mon": 630.0,
-   "disc": null,
-   "buyer": "0xbfd8686e74fd6a317969c31a73f9a8dc1e1761c2",
-   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
-  },
-  {
-   "ts": 1793548034,
-   "token_id": 25056,
-   "mon": 630.0,
-   "disc": null,
-   "buyer": "0xbfd8686e74fd6a317969c31a73f9a8dc1e1761c2",
-   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
-  },
-  {
-   "ts": 1793548239,
-   "token_id": 25080,
-   "mon": 3168.727644,
-   "disc": 26.591242062474674,
+   "ts": 1795755449,
+   "token_id": 25776,
+   "mon": 6360.0,
+   "disc": 27.47687689867139,
    "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
   },
   {
-   "ts": 1793548295,
-   "token_id": 25079,
-   "mon": 3232.95861,
-   "disc": 25.103226693241055,
+   "ts": 1795786201,
+   "token_id": 25770,
+   "mon": 6480.0,
+   "disc": 29.118675170899376,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "ts": 1795791606,
+   "token_id": 25804,
+   "mon": 6600.0,
+   "disc": 28.176032186095313,
    "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
   },
   {
-   "ts": 1793567343,
-   "token_id": 24966,
-   "mon": 640.0,
-   "disc": null,
-   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
-   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
-  },
-  {
-   "ts": 1793567396,
-   "token_id": 25074,
-   "mon": 1380.0,
-   "disc": null,
-   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
-   "seller": "0xf1266fc573ff9fad36a5a19e73d5055a426ffb59"
-  },
-  {
-   "ts": 1793571048,
-   "token_id": 25094,
-   "mon": 3168.727644,
-   "disc": 28.190950787917146,
-   "buyer": "0x97475723b146785264c28a7a0b2bac3737d65247",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793571079,
-   "token_id": 25091,
-   "mon": 3232.95861,
-   "disc": 26.73536194702476,
-   "buyer": "0x97475723b146785264c28a7a0b2bac3737d65247",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793571113,
-   "token_id": 25078,
-   "mon": 3297.189576,
-   "disc": 25.279773106132374,
-   "buyer": "0x97475723b146785264c28a7a0b2bac3737d65247",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793571144,
-   "token_id": 25077,
-   "mon": 3361.420542,
-   "disc": 23.82418426524,
-   "buyer": "0x97475723b146785264c28a7a0b2bac3737d65247",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793580730,
-   "token_id": 24965,
-   "mon": 628.0,
-   "disc": null,
-   "buyer": "0xbfd8686e74fd6a317969c31a73f9a8dc1e1761c2",
-   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
-  },
-  {
-   "ts": 1793615905,
-   "token_id": 25099,
-   "mon": 3232.95861,
-   "disc": null,
-   "buyer": "0x3e8c91472fc50a8528e448ff501af9bf8c00cceb",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793621695,
-   "token_id": 25098,
-   "mon": 3297.189576,
-   "disc": 63.314182563444696,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793638977,
-   "token_id": 25106,
-   "mon": 3232.95861,
-   "disc": null,
-   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793639019,
-   "token_id": 25104,
-   "mon": 3297.189576,
-   "disc": null,
-   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793639081,
-   "token_id": 25054,
-   "mon": 650.0,
-   "disc": null,
-   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
-   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
-  },
-  {
-   "ts": 1793639122,
-   "token_id": 25053,
-   "mon": 650.0,
-   "disc": null,
-   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
-   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
-  },
-  {
-   "ts": 1793645374,
-   "token_id": 25097,
-   "mon": 3361.420542,
-   "disc": 27.10169985523131,
+   "ts": 1795791633,
+   "token_id": 25809,
+   "mon": 6720.0,
+   "disc": 26.870141862206133,
    "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "seller": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
   },
   {
-   "ts": 1793645393,
-   "token_id": 25070,
-   "mon": 3425.651507,
-   "disc": 25.708738722682213,
-   "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "ts": 1795807615,
+   "token_id": 21771,
+   "mon": 40.0,
+   "disc": -253.51166044113575,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0x97998ff388c7a1ddc806ff7294df3b94d7625291"
   },
   {
-   "ts": 1793660376,
-   "token_id": 25114,
-   "mon": 1360.0,
-   "disc": 26.945235679875534,
-   "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
+   "ts": 1795829280,
+   "token_id": 20985,
+   "mon": 45.55,
+   "disc": -300.00093150694573,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
+   "seller": "0xe4514af5804793bee090d28979cf6983bf52f383"
+  },
+  {
+   "ts": 1795836419,
+   "token_id": 25789,
+   "mon": 999.0,
+   "disc": null,
+   "buyer": "0x3496a0da043108ec81022ebecced3d0cf821a58d",
+   "seller": "0x6d7579c965175634d85d5acd85a49907a551093f"
+  },
+  {
+   "ts": 1795837067,
+   "token_id": 25819,
+   "mon": 1700.0,
+   "disc": 27.981971457123965,
+   "buyer": "0xbea3afcf50ba155b656243fb8bcfa2b1850b7225",
    "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
-  },
-  {
-   "ts": 1793660397,
-   "token_id": 25113,
-   "mon": 1380.0,
-   "disc": 25.870900910461934,
-   "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
-   "seller": "0x2dae38e98b98d8cdf949dc30312d9c900cbdb755"
-  },
-  {
-   "ts": 1793678279,
-   "token_id": 25116,
-   "mon": 3476.123596,
-   "disc": 26.928643751169247,
-   "buyer": "0x4bd4449ab218c06989fb6ac7830e1d551436b429",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793682234,
-   "token_id": 25115,
-   "mon": 3545.646067,
-   "disc": 59.19045814562682,
-   "buyer": "0xac2869b60c862b7042cf2dd0c6ddd40cdc1494c2",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793686506,
-   "token_id": 25110,
-   "mon": 3615.168539,
-   "disc": null,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793688553,
-   "token_id": 25096,
-   "mon": 1450.0,
-   "disc": 85.13101156179579,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0x83e038d167b7b54ea44c20fe4a018fa914b8d60b"
-  },
-  {
-   "ts": 1793696738,
-   "token_id": 24314,
-   "mon": 1200.0,
-   "disc": 22.946742817484544,
-   "buyer": "0x3e8c91472fc50a8528e448ff501af9bf8c00cceb",
-   "seller": "0xe591744b65ec000e5b6812b6ecb417da59705970"
-  },
-  {
-   "ts": 1793700612,
-   "token_id": 25125,
-   "mon": 3717.728055,
-   "disc": null,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793707476,
-   "token_id": 25127,
-   "mon": 3787.435456,
-   "disc": 59.22672834536944,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793748318,
-   "token_id": 25139,
-   "mon": 3470.573497,
-   "disc": null,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793748359,
-   "token_id": 25132,
-   "mon": 3538.182071,
-   "disc": 60.56706066882883,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793750309,
-   "token_id": 25136,
-   "mon": 3605.790646,
-   "disc": null,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793759113,
-   "token_id": 25143,
-   "mon": 3673.271955,
-   "disc": 59.63360879348506,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
-  },
-  {
-   "ts": 1793786257,
-   "token_id": 25146,
-   "mon": 3492.228818,
-   "disc": 18.531748397886837,
-   "buyer": "0x374519175b760be5412cde9a487f032317968471",
-   "seller": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
   }
  ],
  "listings": [
   {
-   "token_id": 25145,
-   "mon": 3556.502968,
-   "disc": 16.284371998828107,
-   "maker": "0xf4db2e9d49817ee4d1b89c214a0dd76b603f9c33"
+   "token_id": 25823,
+   "mon": 6720.0,
+   "disc": 28.256083969697944,
+   "maker": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
   },
   {
-   "token_id": 24811,
-   "mon": 768.7190224791265,
-   "disc": 9.086561244817592,
+   "token_id": 25812,
+   "mon": 6840.0,
+   "disc": 26.974942612013976,
+   "maker": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "token_id": 25816,
+   "mon": 6960.0,
+   "disc": 25.693801254330005,
+   "maker": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "token_id": 25817,
+   "mon": 7080.0,
+   "disc": 24.412659896646037,
+   "maker": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "token_id": 25821,
+   "mon": 7200.0,
+   "disc": 23.13151853896208,
+   "maker": "0x39388c784a72ee3fd188f90615ad37ae8d2413f8"
+  },
+  {
+   "token_id": 25767,
+   "mon": 2220.0,
+   "disc": 20.66572345722726,
+   "maker": "0xf1266fc573ff9fad36a5a19e73d5055a426ffb59"
+  },
+  {
+   "token_id": 25624,
+   "mon": 5930.0,
+   "disc": 15.587019432600957,
    "maker": "0x6d7579c965175634d85d5acd85a49907a551093f"
   },
   {
-   "token_id": 25149,
-   "mon": 778.9182198952878,
-   "disc": 8.579435550448377,
+   "token_id": 25623,
+   "mon": 5930.0,
+   "disc": 15.587019432600957,
    "maker": "0x6d7579c965175634d85d5acd85a49907a551093f"
-  },
-  {
-   "token_id": 24280,
-   "mon": 777.3109395980154,
-   "disc": 8.016835273539924,
-   "maker": "0x6d7579c965175634d85d5acd85a49907a551093f"
-  },
-  {
-   "token_id": 25144,
-   "mon": 8000.0,
-   "disc": 5.845007014573778,
-   "maker": "0xb758ee178889307fdc2139ccae910902b4febdd0"
-  },
-  {
-   "token_id": 23575,
-   "mon": 4200.0,
-   "disc": 1.1372573653024576,
-   "maker": "0xb758ee178889307fdc2139ccae910902b4febdd0"
-  },
-  {
-   "token_id": 23991,
-   "mon": 4500.0,
-   "disc": -5.924367108604511,
-   "maker": "0xb758ee178889307fdc2139ccae910902b4febdd0"
-  },
-  {
-   "token_id": 21494,
-   "mon": 20.99,
-   "disc": -12.958007702566077,
-   "maker": "0x8e3e7cfa4bd74cec9a164c21917f392c288a2455"
-  },
-  {
-   "token_id": 24032,
-   "mon": 5000.0,
-   "disc": -17.693741231782777,
-   "maker": "0xb758ee178889307fdc2139ccae910902b4febdd0"
   },
   {
    "token_id": 16884,
    "mon": 7000.0,
-   "disc": -37.644027093924336,
+   "disc": 13.315488557281608,
    "maker": "0xd38cb1290b29ffe4c746bcbbfe2ea680d8902f73"
   },
   {
-   "token_id": 22238,
-   "mon": 12000.0,
-   "disc": -41.21836764137521,
-   "maker": "0xeb27e88f8f0d9ef041bf570fdbc9e48dcc728c06"
+   "token_id": 25444,
+   "mon": 6000.0,
+   "disc": -2.491394456362861,
+   "maker": "0xbc0b8482ab2cee2c527f1c83f5d97bac7cf2bc37"
   },
   {
    "token_id": 23049,
    "mon": 400.0,
-   "disc": -88.30998597085242,
+   "disc": -36.65507815295632,
    "maker": "0xbea9776143caa8091e8bb7cdab357a5a9a6ad4e0"
   },
   {
    "token_id": 15552,
    "mon": 600.0,
-   "disc": -99.80964512749763,
+   "disc": -45.00029050418524,
    "maker": "0xe09d30bb70102d3c3d88e288cbb8a2f9d6f0ee71"
+  },
+  {
+   "token_id": 22619,
+   "mon": 20000.0,
+   "disc": -58.88340656693671,
+   "maker": "0x076961d228d16baf790411d90a4f1f04702e3972"
   },
   {
    "token_id": 17944,
    "mon": 22.9,
-   "disc": -169.51866742078258,
+   "disc": -95.5875806064187,
    "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
   },
   {
    "token_id": 17947,
    "mon": 22.9,
-   "disc": -169.51866742078258,
-   "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
-  },
-  {
-   "token_id": 17948,
-   "mon": 22.9,
-   "disc": -169.51866742078258,
+   "disc": -95.5875806064187,
    "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
   },
   {
    "token_id": 8130,
    "mon": 2220.0,
-   "disc": -190.3112283717309,
+   "disc": -110.67657881914097,
    "maker": "0x54a55c0b086a18944615932216a84f0ffedbec8f"
-  },
-  {
-   "token_id": 3704,
-   "mon": 99.0,
-   "disc": -197.1706745207153,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 24189,
-   "mon": 29.0,
-   "disc": -239.5590084375072,
-   "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
-  },
-  {
-   "token_id": 24144,
-   "mon": 29.0,
-   "disc": -240.15272776146617,
-   "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
    "token_id": 23332,
    "mon": 29.0,
-   "disc": -241.31184957217005,
+   "disc": -147.68732915223327,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
    "token_id": 17949,
    "mon": 29.5,
-   "disc": -247.19653663375917,
+   "disc": -151.95780034451317,
    "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
-  },
-  {
-   "token_id": 22716,
-   "mon": 29.8,
-   "disc": -250.7273488707127,
-   "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
    "token_id": 19709,
    "mon": 3000.0,
-   "disc": -253.0812236953483,
+   "disc": -156.22827153679307,
    "maker": "0xe918944fe5273017fd7e5a546f342c931c53cd73"
-  },
-  {
-   "token_id": 23070,
-   "mon": 30.49889999,
-   "disc": -258.9529643277083,
-   "maker": "0x7683117604b623256c85ef3ce667a597be9e7935"
   },
   {
    "token_id": 23557,
    "mon": 34.0,
-   "disc": -296.177731320302,
-   "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
-  },
-  {
-   "token_id": 23069,
-   "mon": 34.0,
-   "disc": -300.1587201880614,
-   "maker": "0x7683117604b623256c85ef3ce667a597be9e7935"
-  },
-  {
-   "token_id": 23118,
-   "mon": 34.0,
-   "disc": -300.1587201880614,
+   "disc": -187.5030687136093,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
    "token_id": 23605,
    "mon": 34.0,
-   "disc": -300.1587201880614,
-   "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
-  },
-  {
-   "token_id": 22717,
-   "mon": 37.0,
-   "disc": -335.4668425575963,
+   "disc": -190.39204107503215,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
    "token_id": 20958,
    "mon": 38.0,
-   "disc": -347.2362166807746,
+   "disc": -224.55581061327123,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
-  },
-  {
-   "token_id": 21054,
-   "mon": 39.0,
-   "disc": -354.9748145278478,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 21923,
-   "mon": 39.0,
-   "disc": -358.9844707210136,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 20966,
-   "mon": 39.0,
-   "disc": -359.0055908039528,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 21781,
    "mon": 40.0,
-   "disc": -370.7749649271311,
+   "disc": -241.63769538239072,
    "maker": "0x97998ff388c7a1ddc806ff7294df3b94d7625291"
   },
   {
-   "token_id": 21771,
-   "mon": 40.0,
-   "disc": -370.7749649271311,
-   "maker": "0x97998ff388c7a1ddc806ff7294df3b94d7625291"
-  },
-  {
-   "token_id": 20944,
-   "mon": 40.0,
-   "disc": -370.7749649271311,
-   "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+   "token_id": 12959,
+   "mon": 10000.0,
+   "disc": -243.28546561735408,
+   "maker": "0x7de865445430e07abf6de592857657b39a45e229"
   },
   {
    "token_id": 20943,
    "mon": 43.0,
-   "disc": -406.083087296666,
+   "disc": -267.26052253607,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
-   "token_id": 21168,
-   "mon": 44.0,
-   "disc": -417.7228256870022,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 22079,
-   "mon": 44.0,
-   "disc": -417.85246141984425,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 21954,
-   "mon": 45.0,
-   "disc": -429.62183554302254,
-   "maker": "0x101eb380d06e443c7d456aed63961b16e290d8c7"
-  },
-  {
-   "token_id": 20970,
-   "mon": 45.0,
-   "disc": -429.62183554302254,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 21959,
-   "mon": 45.0,
-   "disc": -429.62183554302254,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 23325,
-   "mon": 45.0,
-   "disc": -429.62183554302254,
-   "maker": "0x11a5341a1074d8c4b0e9d8e2e3df20b9e080c010"
+   "token_id": 25644,
+   "mon": 2500.0,
+   "disc": -269.1624474654119,
+   "maker": "0xe591744b65ec000e5b6812b6ecb417da59705970"
   },
   {
    "token_id": 20960,
    "mon": 45.0,
-   "disc": -429.62183554302254,
+   "disc": -284.34240730518957,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
-  },
-  {
-   "token_id": 20985,
-   "mon": 45.55,
-   "disc": -436.0949913107706,
-   "maker": "0xe4514af5804793bee090d28979cf6983bf52f383"
   },
   {
    "token_id": 21770,
    "mon": 45.99,
-   "disc": -441.27351592496905,
+   "disc": -292.7979402659038,
    "maker": "0x0dc5e2954183730c67f3f5d48bd9c9b6b7e5d71f"
   },
   {
    "token_id": 20995,
    "mon": 46.0,
-   "disc": -441.3912096662008,
+   "disc": -292.88334968974937,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
    "token_id": 20991,
    "mon": 49.0,
-   "disc": -471.4566214709232,
+   "disc": -314.701582953869,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
    "token_id": 20959,
    "mon": 50.0,
-   "disc": -488.46870615891385,
+   "disc": -327.0471192279884,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
-   "token_id": 21938,
-   "mon": 55.0,
-   "disc": -546.2057436440552,
-   "maker": "0x101eb380d06e443c7d456aed63961b16e290d8c7"
-  },
-  {
-   "token_id": 21911,
-   "mon": 55.0,
-   "disc": -547.3155767748053,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+   "token_id": 25731,
+   "mon": 2500.0,
+   "disc": -327.0471192279885,
+   "maker": "0xe591744b65ec000e5b6812b6ecb417da59705970"
   },
   {
    "token_id": 20946,
    "mon": 55.0,
-   "disc": -547.3155767748053,
-   "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
-  },
-  {
-   "token_id": 21919,
-   "mon": 56.0,
-   "disc": -555.9116568577524,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 20963,
-   "mon": 56.0,
-   "disc": -559.0849508979836,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 23576,
-   "mon": 60.0,
-   "disc": -603.8536630253642,
+   "disc": -369.75183115078727,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
   },
   {
    "token_id": 23604,
    "mon": 64.0,
-   "disc": -653.1999510134251,
+   "disc": -446.59129010011316,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
-  },
-  {
-   "token_id": 21970,
-   "mon": 66.0,
-   "disc": -670.9108105698316,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 21651,
-   "mon": 66.0,
-   "disc": -676.0266983926749,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 21833,
    "mon": 67.0,
-   "disc": -688.5480662529446,
+   "disc": -472.2431397655045,
    "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
-   "token_id": 21928,
-   "mon": 67.0,
-   "disc": -688.5480662529446,
+   "token_id": 21911,
+   "mon": 68.0,
+   "disc": -480.7840821500643,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "token_id": 21168,
+   "mon": 69.0,
+   "disc": -489.17749683681564,
    "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 24049,
    "mon": 70.0,
-   "disc": -720.0181655430289,
+   "disc": -495.0807437077266,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "token_id": 21919,
+   "mon": 71.0,
+   "disc": -503.4872440487158,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "token_id": 20966,
+   "mon": 75.0,
+   "disc": -540.5706788419826,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 20576,
    "mon": 77.0,
-   "disc": -805.8980806736138,
+   "disc": -557.4031237633224,
    "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 20997,
    "mon": 78.0,
-   "disc": -814.3125859937338,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 21925,
-   "mon": 78.0,
-   "disc": -818.0111816079057,
+   "disc": -563.5094642009317,
    "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 23515,
    "mon": 80.0,
-   "disc": -832.7454639929562,
+   "disc": -576.8860590245197,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "token_id": 21959,
+   "mon": 81.0,
+   "disc": -591.8163331493412,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "token_id": 22079,
+   "mon": 85.0,
+   "disc": -625.9801026875804,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "token_id": 21651,
+   "mon": 86.0,
+   "disc": -633.8099606522757,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 23696,
    "mon": 88.0,
-   "disc": -928.0700513834887,
+   "disc": -646.0623635767801,
    "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 21910,
    "mon": 88.0,
-   "disc": -929.2919638822511,
+   "disc": -646.9490958823109,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "token_id": 20963,
+   "mon": 88.0,
+   "disc": -651.6029298412597,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "token_id": 21054,
+   "mon": 90.0,
+   "disc": -661.9345776271939,
    "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 24117,
    "mon": 90.0,
-   "disc": -956.4482608353195,
+   "disc": -666.6562073418215,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "token_id": 21923,
+   "mon": 90.0,
+   "disc": -668.6494453526536,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "token_id": 21970,
+   "mon": 93.0,
+   "disc": -688.3073443675847,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 14572,
    "mon": 10000.0,
-   "disc": -990.6360620362278,
+   "disc": -691.466026220524,
    "maker": "0xe7368221de15a7c5e0a50a95317b06e6d08c3861"
-  },
-  {
-   "token_id": 25126,
-   "mon": 1500.0,
-   "disc": -1008.8199973157228,
-   "maker": "0xe591744b65ec000e5b6812b6ecb417da59705970"
   },
   {
    "token_id": 22283,
    "mon": 97.0,
-   "disc": -1039.0500280854337,
+   "disc": -726.5996612215529,
    "maker": "0xc09d4da82c2119cae8d2b46c5b81507bf9920230"
   },
   {
    "token_id": 20733,
    "mon": 98.0,
-   "disc": -1048.4668496812005,
+   "disc": -733.4333747099132,
    "maker": "0x08cb134613707ba5e0dc8e95bc4a469cf5aafe99"
   },
   {
    "token_id": 24116,
    "mon": 99.0,
-   "disc": -1062.0930869188517,
+   "disc": -743.3218280760036,
    "maker": "0x74730ee9116305f1e4b2e444cad2e8528e05713b"
+  },
+  {
+   "token_id": 21928,
+   "mon": 99.0,
+   "disc": -745.5532960714171,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 17942,
    "mon": 120.0,
-   "disc": -1312.3248947813934,
+   "disc": -924.9130861471722,
    "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
   },
   {
    "token_id": 22280,
    "mon": 140.0,
-   "disc": -1535.1380352264332,
+   "disc": -1086.6068325730018,
    "maker": "0xc09d4da82c2119cae8d2b46c5b81507bf9920230"
-  },
-  {
-   "token_id": 2657,
-   "mon": 5000.0,
-   "disc": -2164.672862659822,
-   "maker": "0x4e9a191670a005bca7856c172e1a5d0e3669f3b0"
   },
   {
    "token_id": 22237,
    "mon": 210.0,
-   "disc": -2351.3545133152857,
+   "disc": -1678.9287215472148,
    "maker": "0xc09d4da82c2119cae8d2b46c5b81507bf9920230"
   },
   {
-   "token_id": 22619,
-   "mon": 125000.0,
-   "disc": -2858.6150178090156,
-   "maker": "0x076961d228d16baf790411d90a4f1f04702e3972"
+   "token_id": 21494,
+   "mon": 500.0,
+   "disc": -1852.661724865059,
+   "maker": "0xa46c30d1f4679a6517d65b9d8b2998add4d321e1"
   },
   {
    "token_id": 21889,
    "mon": 265.0,
-   "disc": -3018.8841426422437,
+   "disc": -2163.3497319083385,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
   },
   {
    "token_id": 21852,
    "mon": 750.0,
-   "disc": -3096.714000848724,
+   "disc": -2219.8302488655563,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
   },
   {
    "token_id": 21814,
    "mon": 280.0,
-   "disc": -3182.6614773621827,
-   "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
-  },
-  {
-   "token_id": 21890,
-   "mon": 330.0,
-   "disc": -3783.8934606488315,
+   "disc": -2282.201657686191,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
   },
   {
    "token_id": 20993,
    "mon": 333.0,
-   "disc": -3819.2015830183664,
+   "disc": -2744.133814058403,
    "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
-   "token_id": 19147,
-   "mon": 450.0,
-   "disc": -4040.409442598131,
-   "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
+   "token_id": 21157,
+   "mon": 340.0,
+   "disc": -2803.9204107503215,
+   "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
+  },
+  {
+   "token_id": 20951,
+   "mon": 350.0,
+   "disc": -2885.027676813203,
+   "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 21789,
    "mon": 355.0,
-   "disc": -4078.1278137282884,
+   "disc": -2932.034546518718,
    "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
   },
   {
-   "token_id": 21797,
-   "mon": 355.0,
-   "disc": -4078.1278137282884,
-   "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
+   "token_id": 20564,
+   "mon": 380.0,
+   "disc": -3133.1397694441575,
+   "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 20996,
    "mon": 380.0,
-   "disc": -4372.362166807746,
+   "disc": -3145.5581061327125,
    "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
   },
   {
    "token_id": 21891,
    "mon": 380.0,
-   "disc": -4372.362166807746,
+   "disc": -3145.5581061327125,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
   },
   {
    "token_id": 21812,
    "mon": 399.0,
-   "disc": -4595.980275148133,
+   "disc": -3307.8360114393477,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
+  },
+  {
+   "token_id": 20994,
+   "mon": 399.0,
+   "disc": -3307.8360114393477,
+   "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 17931,
    "mon": 410.0,
-   "disc": -4725.443390503095,
+   "disc": -3401.7863776695053,
    "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
   },
   {
    "token_id": 17935,
    "mon": 420.0,
-   "disc": -4843.137131734877,
+   "disc": -3487.195801515102,
    "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
+  },
+  {
+   "token_id": 21155,
+   "mon": 425.0,
+   "disc": -3529.9005134379017,
+   "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 21906,
    "mon": 450.0,
-   "disc": -5086.933722859063,
+   "disc": -3664.1170733304853,
    "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
   },
   {
    "token_id": 21806,
    "mon": 450.0,
-   "disc": -5158.655219044161,
+   "disc": -3716.1647999334627,
    "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
   },
   {
    "token_id": 21161,
    "mon": 450.0,
-   "disc": -5188.066616045111,
+   "disc": -3737.5084197900037,
    "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 21805,
    "mon": 450.0,
-   "disc": -5196.2183554302255,
+   "disc": -3743.424073051896,
    "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
   },
   {
    "token_id": 21867,
    "mon": 450.0,
-   "disc": -5196.2183554302255,
+   "disc": -3743.424073051896,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
   },
   {
    "token_id": 21868,
    "mon": 450.0,
-   "disc": -5196.2183554302255,
+   "disc": -3743.424073051896,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
   },
   {
    "token_id": 21898,
    "mon": 450.0,
-   "disc": -5196.2183554302255,
+   "disc": -3743.424073051896,
    "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
   },
   {
-   "token_id": 17938,
-   "mon": 450.0,
-   "disc": -5196.2183554302255,
-   "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
-  },
-  {
-   "token_id": 20565,
+   "token_id": 22232,
    "mon": 500.0,
-   "disc": -5762.170741483976,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
-  },
-  {
-   "token_id": 20567,
-   "mon": 500.0,
-   "disc": -5762.170741483976,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
-  },
-  {
-   "token_id": 20563,
-   "mon": 500.0,
-   "disc": -5762.170741483976,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
-  },
-  {
-   "token_id": 21043,
-   "mon": 500.0,
-   "disc": -5772.133583711569,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+   "disc": -4007.0570444815708,
+   "maker": "0xd826b00324036894478b5797f1b64239ba463ff8"
   },
   {
    "token_id": 21894,
    "mon": 499.0,
-   "disc": -5772.917687465961,
+   "disc": -4161.930249895325,
    "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
   },
   {
-   "token_id": 21134,
+   "token_id": 23545,
    "mon": 500.0,
-   "disc": -5782.61901484834,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+   "disc": -4165.714155206115,
+   "maker": "0xa46c30d1f4679a6517d65b9d8b2998add4d321e1"
   },
   {
    "token_id": 20969,
    "mon": 500.0,
-   "disc": -5784.687061589139,
+   "disc": -4170.471192279884,
    "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
   },
   {
    "token_id": 22063,
    "mon": 500.0,
-   "disc": -5784.687061589139,
+   "disc": -4170.471192279884,
    "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
   },
   {
    "token_id": 22062,
    "mon": 500.0,
-   "disc": -5784.687061589139,
+   "disc": -4170.471192279884,
    "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
   },
   {
-   "token_id": 17940,
+   "token_id": 20957,
    "mon": 500.0,
-   "disc": -5784.687061589139,
-   "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
-  },
-  {
-   "token_id": 21096,
-   "mon": 500.0,
-   "disc": -5784.687061589139,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
-  },
-  {
-   "token_id": 21133,
-   "mon": 500.0,
-   "disc": -5784.687061589139,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
-  },
-  {
-   "token_id": 21099,
-   "mon": 500.0,
-   "disc": -5784.687061589139,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
-  },
-  {
-   "token_id": 3346,
-   "mon": 55.0,
-   "disc": -6373.155767748052,
-   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+   "disc": -4170.471192279884,
+   "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 21876,
    "mon": 550.0,
-   "disc": -6373.155767748052,
+   "disc": -4597.518311507873,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
   },
   {
    "token_id": 21872,
    "mon": 550.0,
-   "disc": -6373.155767748052,
+   "disc": -4597.518311507873,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
-  },
-  {
-   "token_id": 17936,
-   "mon": 550.0,
-   "disc": -6373.155767748052,
-   "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
   },
   {
    "token_id": 13104,
    "mon": 2220.0,
-   "disc": -6770.36018260029,
+   "disc": -4885.766436398782,
    "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
   },
   {
-   "token_id": 20271,
-   "mon": 1100.0,
-   "disc": -7092.3952974978365,
+   "token_id": 11434,
+   "mon": 3580.0,
+   "disc": -4996.095622787328,
    "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
   },
   {
    "token_id": 8641,
    "mon": 10000.0,
-   "disc": -7492.722332410459,
+   "disc": -5409.978976313292,
    "maker": "0x0943726d2bfd1a3b2a19539fa40b607d685a6760"
   },
   {
    "token_id": 21160,
    "mon": 650.0,
-   "disc": -7550.093180065882,
+   "disc": -5451.612549963849,
    "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 21827,
    "mon": 650.0,
-   "disc": -7550.093180065882,
+   "disc": -5451.612549963849,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
   },
   {
    "token_id": 21828,
    "mon": 650.0,
-   "disc": -7550.093180065882,
+   "disc": -5451.612549963849,
    "maker": "0x5112b528a64b8efca7cb459e942fc52a319638d9"
+  },
+  {
+   "token_id": 3346,
+   "mon": 74.0,
+   "disc": -6220.297364574229,
+   "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
   },
   {
    "token_id": 21103,
    "mon": 750.0,
-   "disc": -8727.030592383708,
+   "disc": -6305.706788419828,
    "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 4701,
    "mon": 77.0,
-   "disc": -8872.691163215122,
+   "disc": -6411.411520902001,
    "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
+  },
+  {
+   "token_id": 20271,
+   "mon": 1500.0,
+   "disc": -7017.451987133141,
+   "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
   },
   {
    "token_id": 22261,
    "mon": 840.0,
-   "disc": -9730.297744173411,
+   "disc": -7033.76988252115,
    "maker": "0xc09d4da82c2119cae8d2b46c5b81507bf9920230"
   },
   {
    "token_id": 21154,
    "mon": 850.0,
-   "disc": -9903.968004701537,
+   "disc": -7159.8010268758035,
    "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 4702,
    "mon": 99.0,
-   "disc": -11323.216060731858,
+   "disc": -8189.738196778599,
    "maker": "0xcb7db076b6b12dd5aafc2dee4f2af23bf66742d7"
-  },
-  {
-   "token_id": 5610,
-   "mon": 99.0,
-   "disc": -11551.680381946495,
-   "maker": "0xea0872c5ec5fc7759c40aca66a70f69ea3dd8566"
-  },
-  {
-   "token_id": 21100,
-   "mon": 1000.0,
-   "disc": -11669.374123178279,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
-  },
-  {
-   "token_id": 21097,
-   "mon": 1000.0,
-   "disc": -11669.374123178279,
-   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
   },
   {
    "token_id": 21112,
    "mon": 1200.0,
-   "disc": -12425.668700991464,
+   "disc": -8989.77942102854,
    "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
   },
   {
-   "token_id": 11434,
-   "mon": 8880.0,
-   "disc": -17318.673702303855,
-   "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
+   "token_id": 20565,
+   "mon": 1200.0,
+   "disc": -10109.915061402604,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 20567,
+   "mon": 1200.0,
+   "disc": -10109.915061402604,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 20563,
+   "mon": 1200.0,
+   "disc": -10109.915061402604,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 21043,
+   "mon": 1200.0,
+   "disc": -10127.266956698671,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 21134,
+   "mon": 1200.0,
+   "disc": -10145.529024797614,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 21099,
+   "mon": 1200.0,
+   "disc": -10149.130861471722,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 21133,
+   "mon": 1200.0,
+   "disc": -10149.130861471722,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 21096,
+   "mon": 1200.0,
+   "disc": -10149.130861471722,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 21097,
+   "mon": 1200.0,
+   "disc": -10149.130861471722,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 21100,
+   "mon": 1200.0,
+   "disc": -10149.130861471722,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
+  },
+  {
+   "token_id": 21098,
+   "mon": 1200.0,
+   "disc": -10149.130861471722,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
   },
   {
    "token_id": 24187,
    "mon": 1500.0,
-   "disc": -17463.396988146924,
+   "disc": -12645.619281274436,
    "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   },
   {
    "token_id": 5618,
    "mon": 150.0,
-   "disc": -17554.061184767415,
+   "disc": -12711.413576839652,
    "maker": "0x5b771eb0da5a5460cb6c1bc0084db0df8b789955"
+  },
+  {
+   "token_id": 20968,
+   "mon": 1800.0,
+   "disc": -15273.696292207584,
+   "maker": "0x33857d159c96815233caec5492dff0a25c47541f"
+  },
+  {
+   "token_id": 22812,
+   "mon": 9999.0,
+   "disc": -22861.7160175301,
+   "maker": "0x69dd0af6171a93445b4781cb5ade2c7f03210ed1"
   },
   {
    "token_id": 22236,
    "mon": 2800.0,
-   "disc": -32690.663847626758,
+   "disc": -23695.927272164663,
    "maker": "0xc09d4da82c2119cae8d2b46c5b81507bf9920230"
   },
   {
    "token_id": 22234,
    "mon": 2800.0,
-   "disc": -32789.430907408765,
+   "disc": -23767.601751900092,
    "maker": "0xc09d4da82c2119cae8d2b46c5b81507bf9920230"
   },
   {
    "token_id": 22235,
    "mon": 2800.0,
-   "disc": -32789.430907408765,
+   "disc": -23767.601751900092,
    "maker": "0xc09d4da82c2119cae8d2b46c5b81507bf9920230"
   },
   {
    "token_id": 22262,
    "mon": 2800.0,
-   "disc": -32820.16305732296,
+   "disc": -23789.90383177484,
    "maker": "0xc09d4da82c2119cae8d2b46c5b81507bf9920230"
   },
   {
    "token_id": 23697,
    "mon": 2850.0,
-   "disc": -33195.45052776072,
+   "disc": -24062.247002202534,
    "maker": "0x8a3e27b38fde3b52ee00799d86ed851cb240b1f8"
   },
   {
-   "token_id": 21937,
-   "mon": 3100.0,
-   "disc": -36155.43433718351,
-   "maker": "0x7a6672c6e92fc465e53aa9ab81556634d5d1469b"
+   "token_id": 3324,
+   "mon": 350.0,
+   "disc": -28886.699429630706,
+   "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
+  },
+  {
+   "token_id": 5475,
+   "mon": 350.0,
+   "disc": -29793.298345959185,
+   "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
+  },
+  {
+   "token_id": 21971,
+   "mon": 3600.0,
+   "disc": -30437.172066529172,
+   "maker": "0x4d25735f5f3b3e01a056b3b8b594e77ae9732ee6"
   },
   {
    "token_id": 4000,
    "mon": 4000.0,
-   "disc": -46930.46602668643,
+   "disc": -34029.639898340734,
    "maker": "0xab7ba98987fec6d4931fb03f51ba24ad2539f68a"
   },
   {
-   "token_id": 21971,
-   "mon": 4700.0,
-   "disc": -54837.86141775147,
-   "maker": "0x4d25735f5f3b3e01a056b3b8b594e77ae9732ee6"
-  },
-  {
-   "token_id": 5552,
+   "token_id": 3251,
    "mon": 500.0,
-   "disc": -58106.598037479125,
-   "maker": "0xb1469abb3dbe207484bbbb1044b3716e878b06a8"
+   "disc": -41972.46930091468,
+   "maker": "0x9f2ab48a0b9179819e9c3736692663ddfaa05589"
   },
   {
    "token_id": 4651,
    "mon": 500.0,
-   "disc": -58164.22833256572,
+   "disc": -42181.89299287014,
    "maker": "0x7617dbd07ed6830343f68a6f7d36b13128ced41b"
+  },
+  {
+   "token_id": 21937,
+   "mon": 5000.0,
+   "disc": -42335.94195165525,
+   "maker": "0x7a6672c6e92fc465e53aa9ab81556634d5d1469b"
+  },
+  {
+   "token_id": 5637,
+   "mon": 1200.0,
+   "disc": -49040.71067703713,
+   "maker": "0x6ec5958dd316c61e1f5799ce45db06bc668c0dcf"
   },
   {
    "token_id": 24188,
    "mon": 7200.0,
-   "disc": -84204.30554310523,
+   "disc": -61078.972550117294,
    "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   },
   {
-   "token_id": 2994,
-   "mon": 3500.0,
-   "disc": -140010.67960810495,
-   "maker": "0xba8f026e24b3a229e050557e081f58a0b1866165"
+   "token_id": 19147,
+   "mon": 9999.0,
+   "disc": -66663.6034334082,
+   "maker": "0x69dd0af6171a93445b4781cb5ade2c7f03210ed1"
+  },
+  {
+   "token_id": 5524,
+   "mon": 1000.0,
+   "disc": -85207.05537914271,
+   "maker": "0x17961553d459055c898df07ec698d2482dc87ddf"
   },
   {
    "token_id": 24377,
    "mon": 12900.0,
-   "disc": -150321.87796294055,
+   "disc": -109059.97568032236,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23171,
+   "mon": 15000.0,
+   "disc": -127972.97910228092,
    "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   },
   {
    "token_id": 24378,
    "mon": 18600.0,
-   "disc": -216787.35892330966,
+   "disc": -157293.45330651128,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23317,
+   "mon": 20000.0,
+   "disc": -170718.84769119538,
    "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   },
   {
    "token_id": 24380,
    "mon": 24300.0,
-   "disc": -283252.8398836787,
+   "disc": -205526.93093270023,
    "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   },
   {
-   "token_id": 6535,
-   "mon": 3500.0,
-   "disc": -299013.7107035817,
-   "maker": "0x3096663a898740582d7cb2ce9375adec525b65cf"
+   "token_id": 24416,
+   "mon": 25000.0,
+   "disc": -211620.4924075494,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 3704,
+   "mon": 100000.0,
+   "disc": -217732.75255257066,
+   "maker": "0xa46c30d1f4679a6517d65b9d8b2998add4d321e1"
   },
   {
    "token_id": 24186,
    "mon": 30000.0,
-   "disc": -351167.9397629385,
+   "disc": -254812.3856254887,
    "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   },
   {
-   "token_id": 3631,
-   "mon": 8500.0,
-   "disc": -1000296.8004701536,
-   "maker": "0xfb70141988148f274df2ecb55007af17ccab23b2"
+   "token_id": 23164,
+   "mon": 30000.0,
+   "disc": -256045.76603335817,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23467,
+   "mon": 35000.0,
+   "disc": -298591.5375883361,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23151,
+   "mon": 40000.0,
+   "disc": -341427.6880444776,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23163,
+   "mon": 45000.0,
+   "disc": -384118.64905003726,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 3437,
+   "mon": 4999.0,
+   "disc": -422998.34189452394,
+   "maker": "0x69dd0af6171a93445b4781cb5ade2c7f03210ed1"
+  },
+  {
+   "token_id": 22211,
+   "mon": 50000.0,
+   "disc": -424176.8217997202,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 24400,
+   "mon": 55000.0,
+   "disc": -468691.13868248486,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 24415,
+   "mon": 60000.0,
+   "disc": -508029.1817781186,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 24418,
+   "mon": 65000.0,
+   "disc": -550373.2802596285,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23069,
+   "mon": 70000.0,
+   "disc": -597765.9669191838,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23242,
+   "mon": 75000.0,
+   "disc": -639017.414675938,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23144,
+   "mon": 80000.0,
+   "disc": -682946.664327723,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23421,
+   "mon": 85000.0,
+   "disc": -725880.1026875804,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   },
   {
    "token_id": 3605,
    "mon": 9000.0,
-   "disc": -1003922.4370483839,
+   "disc": -728511.1986828238,
    "maker": "0xfebc9ba56cda711910ffd7017373ee4499c0fa9a"
+  },
+  {
+   "token_id": 23147,
+   "mon": 90000.0,
+   "disc": -768337.2981000745,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23152,
+   "mon": 95000.0,
+   "disc": -811028.2591056343,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23183,
+   "mon": 100000.0,
+   "disc": -853848.1883412008,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 21954,
+   "mon": 105000.0,
+   "disc": -896698.9503787758,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23179,
+   "mon": 110000.0,
+   "disc": -939092.2168375216,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23182,
+   "mon": 115000.0,
+   "disc": -981782.7721483181,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 24399,
+   "mon": 120000.0,
+   "disc": -1022717.0298526942,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23146,
+   "mon": 125000.0,
+   "disc": -1067174.0251389926,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23158,
+   "mon": 130000.0,
+   "disc": -1109864.9861445522,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23176,
+   "mon": 135000.0,
+   "disc": -1152544.9933915038,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23189,
+   "mon": 140000.0,
+   "disc": -1195427.4636776813,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23185,
+   "mon": 145000.0,
+   "disc": -1238124.8730947413,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23180,
+   "mon": 150000.0,
+   "disc": -1280616.6593238933,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23177,
+   "mon": 155000.0,
+   "disc": -1323307.2146346897,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23157,
+   "mon": 160000.0,
+   "disc": -1366010.7521779104,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23186,
+   "mon": 165000.0,
+   "disc": -1408914.5107629814,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23167,
+   "mon": 175000.0,
+   "disc": -1494083.6351945894,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 25429,
+   "mon": 180000.0,
+   "disc": -1537269.6292207583,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
+  },
+  {
+   "token_id": 23244,
+   "mon": 185000.0,
+   "disc": -1576389.6228673141,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   },
   {
    "token_id": 3379,
    "mon": 25000.0,
-   "disc": -2780203.0670208232,
+   "disc": -2017544.1039693141,
    "maker": "0x3fd73674f2efb5f30fa4b1c681ef978a12ad5408"
+  },
+  {
+   "token_id": 5610,
+   "mon": 100000.0,
+   "disc": -8540842.38455977,
+   "maker": "0xa46c30d1f4679a6517d65b9d8b2998add4d321e1"
+  },
+  {
+   "token_id": 21938,
+   "mon": 170000000.0,
+   "disc": -1449470695.8842218,
+   "maker": "0x649874c73d2388848cc8993f71a59ec880578f59"
   }
  ]
 }
