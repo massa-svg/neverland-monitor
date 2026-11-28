@@ -1,0 +1,96 @@
+{
+ "time": "2026-11-28 11:39 UTC",
+ "block": 126137659,
+ "mon_usd": 0.00969067,
+ "main": {
+  "code_provider": 9779,
+  "code_pool": 2333,
+  "code_ntoken": 2333,
+  "code_gateway": 7907,
+  "code_dp": 12289,
+  "provider_getPool": "0x80f00661b13cc5f6ccd3885be7b4c9c67545d585",
+  "dataProvider": "0xfd0b6b6F736376F7B99ee989c749007c7757fDba",
+  "gateway_getWETHAddress": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+  "gateway_owner": "0x3e4749d9df7ec5ecd9184c301592bac058a6f82f",
+  "ntoken_UNDERLYING": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+  "ntoken_POOL": "0x80f00661b13cc5f6ccd3885be7b4c9c67545d585",
+  "ntoken_symbol": "nWMON",
+  "total_supplied_MON": 69332150.74380535,
+  "total_borrowed_MON": 60014376.926948786,
+  "cash_withdrawable_MON": 9335299.31067429,
+  "utilization_pct": 86.56067391982776,
+  "supply_APY_pct": 3.884594489555626,
+  "borrow_APY_pct": 9.207232690124334,
+  "ltv": 7000,
+  "reserveFactor_bps": 5000,
+  "borrowing": true,
+  "active": true,
+  "frozen": false,
+  "caps": [
+   60000000,
+   100000000
+  ],
+  "paused": false,
+  "incentivesController": "0x57ea245ccbfab074babb9d01d1f0c60525e52cec",
+  "rewards": [
+   {
+    "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+    "symbol": "DUST",
+    "data": [
+     37518973425776110,
+     231481481481481470,
+     1795865760,
+     1893499199
+    ],
+    "price_usd": 0.01130743007311,
+    "reward_APR_pct_full_claim": 12.285654379634956,
+    "distributionEnd": "2030-01-01"
+   }
+  ]
+ },
+ "shmon": {
+  "code_provider": 9779,
+  "code_pool": 2333,
+  "code_ntoken": 2333,
+  "code_gateway": 5233,
+  "provider_getPool": "0x99cbb76041fb8206e2459085afb98bbc683db527",
+  "dataProvider": "0xd2638fb3b0b5cb81a6cdc856cb72f95cb4103c43",
+  "gateway_getWETHAddress": "ERR ('0xdeab4c30', '0xdeab4c30')",
+  "gateway_owner": "0x57976e192c45461f5958045a0bc57102e90440ed",
+  "ntoken_UNDERLYING": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+  "ntoken_POOL": "0x99cbb76041fb8206e2459085afb98bbc683db527",
+  "ntoken_symbol": "npWMON",
+  "total_supplied_MON": 3533617.4922082773,
+  "total_borrowed_MON": 2683377.9255917203,
+  "cash_withdrawable_MON": 850664.5050617832,
+  "utilization_pct": 75.93855111677033,
+  "supply_APY_pct": 2.3327971325855623,
+  "borrow_APY_pct": 5.192144053197523,
+  "ltv": 0,
+  "reserveFactor_bps": 4000,
+  "borrowing": true,
+  "active": true,
+  "frozen": false,
+  "caps": [
+   0,
+   0
+  ],
+  "paused": false,
+  "incentivesController": "0x57ea245ccbfab074babb9d01d1f0c60525e52cec",
+  "rewards": [
+   {
+    "reward": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+    "symbol": "DUST",
+    "data": [
+     18625733063299151,
+     5787037037037037,
+     1795853321,
+     1893499199
+    ],
+    "price_usd": 0.01130743007311,
+    "reward_APR_pct_full_claim": 6.026337339237801,
+    "distributionEnd": "2030-01-01"
+   }
+  ]
+ }
+}
