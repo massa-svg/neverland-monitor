@@ -20,6 +20,7 @@ jobs:
           python-version: "3.11"
       - run: pip install requests web3
       - run: python analysis/lending/lending_check_v1.py
+      - run: python analysis/lending/gateway_check_v1.py
       - name: Save
         if: always()
         run: |
